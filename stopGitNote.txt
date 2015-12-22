@@ -26,3 +26,7 @@ liudezhi:我也不知道什么原因，iNewCOS在他本地更新了master并git push origin master
 
 inewcos:
 再用txt文档试试：目前是在dev分支上，我要git push origin dev;然后 new request，再看看我的工作是否保存到根库上了。
+
+liudezhi:
+inewcos经过上面的步骤，我merge request后，根仓库里有了他加的内容。
+并且我 git pull origin master后，本地机上也有了他的工作内容了。
