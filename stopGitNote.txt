@@ -30,3 +30,7 @@ inewcos:
 liudezhi:
 inewcos经过上面的步骤，我merge request后，根仓库里有了他加的内容。
 并且我 git pull origin master后，本地机上也有了他的工作内容了。
+
+liudezhi:
+我又切换到dev分支上，git merge master更新了dev分支，然后我又开始工作了：
+打算去修改一下他的water.txt文件，然后他不知道他也去修改了water.txt，故意制造点冲突。
