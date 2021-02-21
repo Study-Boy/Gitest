@@ -34,3 +34,6 @@ inewcos经过上面的步骤，我merge request后，根仓库里有了他加的内容。
 liudezhi:
 我又切换到dev分支上，git merge master更新了dev分支，然后我又开始工作了：
 打算去修改一下他的water.txt文件，然后他不知道他也去修改了water.txt，故意制造点冲突。
+
+2021年2月21日 11:43:46
+最近被公司的分支搞的头大，N多个分支，不同的feature有的分支可以进入，有的分支不能进入。回过头来再学git。
